@@ -1,6 +1,6 @@
 - 👋 Hi, I’m an Electrical Engineer with a MS degree from [USouthFlorida](https://www.usf.edu/engineering/ee/)
 - 👀 I’m interested in Robotics, Control, Localization, Ground/Aerial Autonomous
-- 🌱 I’m currently enrolled in Udacity Robotics Software Engineer Nano Degree Program and in process of admission to Ph.D program
+- 🌱 I’m currently enrolled in Udacity Robotics Software Engineer Nano Degree Program
 <!---
 - :orange_book: I do have backgrounds on
    - Microcontrollers (PIC16f/18f/dsPIC33e/dsPIC33f)
