@@ -1,9 +1,9 @@
-- 👋 Hi, I’m an Electrical Engineer with a MS degree from [USouthFlorida](https://www.usf.edu/engineering/ee/)
+- 👋 Hi, I’m a Robotic Software Engineer with a MSEE degree from [USouthFlorida](https://www.usf.edu/engineering/ee/)
 - 👀 I’m interested in Robotics, Control, Localization, Ground/Aerial Autonomous
 - 🌱 I have recently graduated from Udacity Robotics Software Engineer Nano Degree Program
-- ⚡ And I'm currently preparing to start my Ph.D. in Robotics 
+- ⚡ And I'm currently studying Ph.D. in Robotics and Control at University of Nevada, Reno 
 <!---
-- :orange_book: I do have backgrounds on
+- :orange_book: I do have an additional backgrounds on
    - Microcontrollers (PIC16f/18f/dsPIC33e/dsPIC33f)
    - FPGAs board (Spartan6), RasPi, Arduino
    - Agile tools (JIRA, MS Azure DevOps Services)
