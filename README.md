@@ -1,7 +1,10 @@
-- 👋 Hi, I’m a Robotic Software Engineer with a MSEE degree from [USouthFlorida](https://www.usf.edu/engineering/ee/)
-- 👀 I’m interested in Robotics, Control, Localization, Ground/Aerial Autonomous
-- 🌱 I have recently graduated from Udacity Robotics Software Engineer Nano Degree Program
-- ⚡ And I'm currently studying Ph.D. in Robotics and Control at [University of Nevada, Reno](https://www.unr.edu/cse) 
+- 👋 Hi, I'm a Ph.D. student in Robotics at [University of Nevada, Reno](https://www.unr.edu/cse). My research interest lies at the intersection of localization and control of ground/aerial autonomous systems. 
+- ⚡ I obtained a Master's degree in [University of South Florida](https://www.usf.edu/engineering/ee/) with a thesis on [_Design of DeLRo Autonomous Delivery Robot and AI Based
+Localization_](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9430&context=etd) under the supervision of [Prof. Wilfrido A. Moreno](https://scholar.google.com/citations?hl=en&user=YOJYjOsAAAAJ&view_op=list_works&sortby=pubdate)
+<!--- - 👀 I’m interested in Control, Localization of Ground/Aerial Autonomous Systems
+--->
+--------------------------------------------------------  
+  
 <!---
 - :orange_book: I do have an additional backgrounds on
    - Microcontrollers (PIC16f/18f/dsPIC33e/dsPIC33f)
