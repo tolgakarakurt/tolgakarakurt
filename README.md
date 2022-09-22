@@ -1,6 +1,5 @@
-- 👋 Hi, I'm a Ph.D. student in Robotics in the [RoboWorkLab](https://www.roboworklab.com/) at [University of Nevada, Reno](https://www.unr.edu/cse). My research interest lies at the intersection of localization and control of ground/aerial autonomous systems. 
-- ⚡ I obtained a Master's degree in [University of South Florida](https://www.usf.edu/engineering/ee/) with a thesis on [_Design of DeLRo Autonomous Delivery Robot and AI Based
-Localization_](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9430&context=etd) under the supervision of [Prof. Wilfrido A. Moreno](https://scholar.google.com/citations?hl=en&user=YOJYjOsAAAAJ&view_op=list_works&sortby=pubdate)
+- 👋 Hi, I'm a Ph.D. student in Robotics in the [RoboWorkLab](https://www.roboworklab.com/) at [University of Nevada, Reno](https://www.unr.edu/cse). My research interest lies at the intersection of localization and control of ground/aerial autonomous systems. Lab. Supervisor: [Dr. Christos Papachristos](https://scholar.google.com/citations?user=jmMI3eUAAAAJ&hl=en) 
+- ⚡ I obtained a Master's degree in [University of South Florida](https://www.usf.edu/engineering/ee/) with a thesis on [_Design of DeLRo Autonomous Delivery Robot and AI Based Localization_](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9430&context=etd) under the supervision of [Prof. Wilfrido A. Moreno](https://scholar.google.com/citations?hl=en&user=YOJYjOsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--- - 👀 I’m interested in Control, Localization of Ground/Aerial Autonomous Systems
 --->
 --------------------------------------------------------  
