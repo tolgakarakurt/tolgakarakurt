@@ -13,6 +13,7 @@
 --->
 - 💞️ I’m looking to collaborate on open source projects
 - :link: Some of my online profiles:
+  - [Google Scholar](https://scholar.google.com/citations?user=NNdpL2AAAAAJ&hl=en)
   - [Researchgate](https://www.researchgate.net/profile/Tolga-Karakurt-2)
   - [LinkedIn](https://www.linkedin.com/in/tolgakarakurt/)
 
