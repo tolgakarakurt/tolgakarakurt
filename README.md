@@ -1,6 +1,6 @@
 - Electrical/Software/Firmware Engineer and graduate researcher at [RoboWorkLab](https://www.roboworklab.com/) in [University of Nevada, Reno](https://www.unr.edu/cse) with 7+ years’ hands-on experience in rapid-prototype development, electrical circuit design, embedded systems, autonomous systems, deep learning, motion planning, AC/DC circuits, and industry standard test equipment. Seeking for internships in robotics, control, and mechatronics. Experienced in applications of agile methodologies to entire software development lifecycle.
 
-- ⚡ I obtained a Master's degree in [University of South Florida](https://www.usf.edu/engineering/ee/) with a thesis on [_Design of DeLRo Autonomous Delivery Robot and AI Based Localization_](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9430&context=etd) under the supervision of [Prof. Wilfrido A. Moreno](https://scholar.google.com/citations?hl=en&user=YOJYjOsAAAAJ&view_op=list_works&sortby=pubdate)
+- Obtained a Master's degree in [University of South Florida](https://www.usf.edu/engineering/ee/) with a thesis on [_Design of DeLRo Autonomous Delivery Robot and AI Based Localization_](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9430&context=etd) under the supervision of [Prof. Wilfrido A. Moreno](https://scholar.google.com/citations?hl=en&user=YOJYjOsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--- - 👀 I’m interested in Control, Localization of Ground/Aerial Autonomous Systems
 --->
 --------------------------------------------------------  
