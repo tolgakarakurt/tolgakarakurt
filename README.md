@@ -1,7 +1,13 @@
+Firmware Engineer/Robotics Enthusiast   
+👀 Aerial Autonomous Systems  
+👀 Bipedal/Humanoid Robotics  
+
+<!---
 Electrical/Software/Firmware Engineer and graduate researcher at Robotic Workers Lab in University of Nevada, Reno with 5+ years’ hands- on experience in rapid-prototype development, electrical circuit design, embedded programming, autonomous systems, deep learning, motion planning, AC/DC circuits, industry standard test equipment, and applications of agile methodologies to entire software development lifecycle.
-
+--->
+<!---
 Seeking for fulltime positions in Robotics and Embedded Systems.
-
+--->
 <!---
 - Electrical/Software/Firmware Engineer and graduate researcher at [RoboWorkLab](https://www.roboworklab.com/) in [University of Nevada, Reno](https://www.unr.edu/cse) with 7+ years’ hands-on experience in rapid-prototype development, electrical circuit design, embedded systems, autonomous systems, deep learning, motion planning, AC/DC circuits, and industry standard test equipment. Seeking for internships in robotics, control, and mechatronics. Experienced in applications of agile methodologies to entire software development lifecycle.
 
